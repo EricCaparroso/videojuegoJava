@@ -1,2 +1,5 @@
-package videojuego.interfaces;public interface Danio {
+package videojuego.interfaces;
+
+public interface Danio {
+    public void recibirAtaque(int ataque);
 }
